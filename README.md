@@ -1,2 +1,2 @@
-[![cat]([![27b1ea0d47b6b2f982a9e6aa34a6b006](https://github.com/user-attachments/assets/e8bba41d-1ac4-40b7-a124-0890d22118a7)](https://i.pinimg.com/originals/27/b1/ea/27b1ea0d47b6b2f982a9e6aa34a6b006.gif))
-](https://i.pinimg.com/originals/27/b1/ea/27b1ea0d47b6b2f982a9e6aa34a6b006.gif)
+
+![27b1ea0d47b6b2f982a9e6aa34a6b006](https://github.com/user-attachments/assets/a1e51cd4-3436-4987-8961-925d96061513)
