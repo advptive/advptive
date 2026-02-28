@@ -1,9 +1,14 @@
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=35&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1010&height=100&lines=ERROR:+Heart+not+found;%3C%2F3" alt="Terminal Display" />
-  
- 
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="1010" alt="divider" />
+ <br><br>
 </div>
+
+
+
+
 
 ```csharp
 namespace HigherMathematics
@@ -40,6 +45,9 @@ namespace HigherMathematics
     }
 }
 ```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="1010" alt="divider" />
+</div>
 
 <div align="right">
 
@@ -47,6 +55,8 @@ namespace HigherMathematics
 
 </div>
 
- 
-
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="1010" alt="divider" />
+</div>
+<br>
   <img src="https://media1.tenor.com/m/L8aFz49TqMUAAAAd/cat-wave.gif" width="1010" height="500" alt="Cat Wave" />
